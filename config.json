@@ -14,10 +14,6 @@
             "api": "https://jyzyapi.com/provide/vod",
             "name": "金鹰资源采集网"
         },
-        "xiaomaomi": {
-            "api": "https://zy.xmm.hk/api.php/provide/vod",
-            "name": "小猫咪资源"
-        },
         "bfzy": {
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "name": "暴风资源"
