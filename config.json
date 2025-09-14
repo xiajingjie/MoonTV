@@ -117,65 +117,53 @@
             "name": "飘零资源",
             "detail": "https://p2100.net"
         },
-
-        "91jpzyw": {
-            "api": "https://91jpzyw.com/api.php/provide/vod/",
-            "name": "91精品资源"
-        },
         "wukong": {
-            "api": "https://wukongzyz.com/api.php/provide/vod/",
+            "api": "https://wukongzyz.com/api.php/provide/vod",
             "name": "悟空资源"
         },
         "xing": {
-            "api": "https://xzybb1.com/api.php/provide/vod/",
+            "api": "https://xzybb1.com/api.php/provide/vod",
             "name": "幸资源站"
         },
-        "xingba": {
-            "api": "https://xingba111.com/api.php/provide/vod/",
-            "name": "杏吧资源站"
-        },
-        "jinma": {
-            "api": "https://api.jmzy.com/api.php/provide/vod/",
-            "name": "金马资源"
-        },
+ 
         "wuxian": {
-            "api": "https://api.wuxianzy.net/api.php/provide/vod/",
+            "api": "https://api.wuxianzy.net/api.php/provide/vod",
             "name": "无线资源"
         },
         "aiqiyi": {
-            "api": "https://iqiyizyapi.com/api.php/provide/vod/",
+            "api": "https://iqiyizyapi.com/api.php/provide/vod",
             "name": "爱奇艺资源站"
         },
         "baiwan": {
-            "api": "https://api.baiwanapi.com/api.php/provide/vod/",
+            "api": "https://api.baiwanapi.com/api.php/provide/vod",
             "name": "百万资源"
         },
         "yinghua": {
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "api": "",
             "name": "樱花资源"
         },
         "qilin": {
-            "api": "https://www.qilinzyz.com/api.php/provide/vod/",
+            "api": "https://www.qilinzyz.com/api.php/provide/vod",
             "name": "麒麟资源站"
         },
         "155zy": {
-            "api": "https://155api.com/api.php/provide/vod/",
+            "api": "https://155api.com/api.php/provide/vod",
             "name": "155资源站"
         },
         "naixx": {
-            "api": "https://naixxzy.com/api.php/provide/vod/",
+            "api": "https://naixxzy.com/api.php/provide/vod",
             "name": "奶香香资源站"
         },
         "jkun": {
-            "api": "https://jkunzyapi.com/api.php/provide/vod/",
+            "api": "https://jkunzyapi.com/api.php/provide/vod",
             "name": "jkun爱坤联盟资源网"
         },
         "yayazy": {
-            "api": "https://cj.yayazy.net/api.php/provide/vod/",
+            "api": "https://cj.yayazy.net/api.php/provide/vod",
             "name": "丫丫资源"
         },
         "yutu": {
-            "api": "https://apiyutu.com/api.php/provide/vod/",
+            "api": "https://apiyutu.com/api.php/provide/vod",
             "name": "玉兔资源"
         },
         "aosika": {
@@ -183,13 +171,9 @@
             "name": "奥斯卡资源"
         },
         "maozy": {
-            "api": "https://api.maozyapi.com/inc/api.php/provide/vod/",
+            "api": "https://api.maozyapi.com/inc/api.php/provide/vod",
             "name": "S猫资源网"
         },
-        "guangsu": {
-            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-            "name": "光速资源站"
-        }
     },
     "lives": {
         "yang-1989": {
